@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphic design
 - 🌱 I’m currently learning how to code!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me illusbymai on insta
+- 📫 How to reach me
 
 <!---
 maipomu/maipomu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
